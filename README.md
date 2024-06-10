@@ -4,7 +4,7 @@
 **SENULT/SENULT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<h1>Là người có đam mê công nghệ và mong muốn học hỏi nhiều thứ từ cuộc sống, mọi người xung quanh<\h1><\n>
+<h1>Là người có đam mê công nghệ và mong muốn học hỏi nhiều thứ từ cuộc sống, mọi người xung quanh
   
 <h4>- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
