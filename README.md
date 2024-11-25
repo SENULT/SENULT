@@ -1,4 +1,4 @@
-<h2 align="left">My name is Anh and I'm a student at FPT University, from Da Nang city in VietNam</h2>
+<h2 align="left">My name is Anh</h2>
 
 ###
 
