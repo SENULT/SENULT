@@ -43,9 +43,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SENULT/SENULT/output/snake.svg" alt="Snake animation" />
-
-###
