@@ -1,4 +1,4 @@
-<h2 align="center">My name is Anh. You can call me is David..</h2>
+<h2 align="center">My name is Anh. You can call me is David.</h2>
 
 ###
 
