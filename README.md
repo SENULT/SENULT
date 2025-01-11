@@ -1,4 +1,7 @@
-<h2 align="center">My name is Anh. You can call me is David.</h2>
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+everyone+%F0%9F%98%8A;I'm+Anh+and+I+am+a+student+of+IT" alt="Typing SVG" /></a>
+</h2>
 
 ###
 
