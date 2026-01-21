@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, It's me Anh</h1>
-<h3 align="center">A student have study at FPT university</h3>
+<h3 align="center">An AI student have study at FPT university</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senult&label=Profile%20views&color=0e75b6&style=flat" alt="senult" /> </p>
 
