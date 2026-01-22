@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, It's me Anh</h1>
-<h3 align="center">An AI student have study at FPT university</h3>
+<h1 align="left">Hi 👋, It's me Anh</h1>
+<h3 align="left">An AI student have study at FPT university</h3>
 
 ## 🧠 About Me
 - Focused on **Artificial Intelligence, Machine Learning & Deep Learning**
@@ -8,7 +8,6 @@
 - Working mainly with **Python**, and research-oriented models
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senult&label=Profile%20views&color=0e75b6&style=flat" alt="senult" /> </p>
-##
 
 ## 💻 Tech Stack
 
@@ -35,9 +34,8 @@
 
 ---
 
-### 🔹 DevOps & MLOps
+### 🔹 Other
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge)
 
 ---
 
