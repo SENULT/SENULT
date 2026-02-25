@@ -11,7 +11,7 @@
 
 ## 💻 Tech Stack
 
-### 🔹 AI / Data Science
+### 🔹 AI
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge)
