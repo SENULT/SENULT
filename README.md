@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, It's me Anh</h1>
-<h3 align="left">An AI student have study at FPT university</h3>
+<h3 align="left">An AI student at FPT university</h3>
 
 ## 🧠 About Me
 - Focused on **Artificial Intelligence, Machine Learning & Deep Learning**
