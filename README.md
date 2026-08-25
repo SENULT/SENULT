@@ -4,7 +4,7 @@
 
 ## 🧠 About Me
 - Focused on **Artificial Intelligence, Machine Learning & Deep Learning**
-- Interested in **Computer Vision** and **a little bit of NLP and LLM** 
+- Interested in **Computer Vision** and **Edge AI with Computer Vision** 
 - Working mainly with **Python**, and research-oriented models
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senult&label=Profile%20views&color=0e75b6&style=flat" alt="senult" /> </p>
