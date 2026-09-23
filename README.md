@@ -1,10 +1,10 @@
 
 <h1 align="left">Hi 👋, It's me Anh</h1>
-<h3 align="left">An AI student at FPT university</h3>
+<h3 align="left">An AI Engineer, Researcher and AI student at FPT university</h3>
 
 ## 🧠 About Me
 - Focused on **Artificial Intelligence, Machine Learning & Deep Learning**
-- Interested in **Computer Vision** and **Edge AI with Computer Vision** 
+- Interested in **Computer Vision** and **Edge AI** 
 - Working mainly with **Python**, and research-oriented models
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senult&label=Profile%20views&color=0e75b6&style=flat" alt="senult" /> </p>
